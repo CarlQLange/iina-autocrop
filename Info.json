@@ -1,0 +1,13 @@
+{
+  "name": "Auto-crop",
+  "identifier": "lol.redfloatplane.autocrop",
+  "version": "1.0.0",
+  "description": "Finds black bars baked into a video and crops them off.",
+  "author": {
+    "name": "Carl Lange",
+    "email": "carl@flax.ie",
+    "url": "https://redfloatplane.lol"
+  },
+  "entry": "main.js",
+  "permissions": ["show-osd", "file-system"]
+}
